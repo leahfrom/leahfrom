@@ -7,7 +7,7 @@
   <a href="https://mastodon.social/@leahfrom">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
-  <a href="https://twitter.com/leonfromde">
+  <a href="https://bsky.app/profile/itsleahxy.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-0d84fa?style=for-the-badge&logo=bluesky&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
